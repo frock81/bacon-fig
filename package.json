@@ -1,0 +1,23 @@
+{
+  "name": "bacon-fig",
+  "version": "1.0.0",
+  "description": "The aim is to facilitate bacula configuration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frock81/bacon-fig.git"
+  },
+  "keywords": [
+    "bacula",
+    "yaml"
+  ],
+  "author": "Fabio Rocha <frock81@yahoo.com.br>",
+  "license": "BSD-4-Clause",
+  "bugs": {
+    "url": "https://github.com/frock81/bacon-fig/issues"
+  },
+  "homepage": "https://github.com/frock81/bacon-fig#readme"
+}
