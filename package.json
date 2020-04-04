@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/frock81/bacon-fig/issues"
   },
-  "homepage": "https://github.com/frock81/bacon-fig#readme"
+  "homepage": "https://github.com/frock81/bacon-fig#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
